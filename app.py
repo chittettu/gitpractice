@@ -15,3 +15,13 @@ def sub(a,b):
 def sq(a):
     return a**2
 
+
+
+def sub(a,b):
+    return a-b
+
+def sq(a):
+    return a**2
+
+
+
